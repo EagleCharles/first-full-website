@@ -6,7 +6,8 @@
     /* border: 1px solid black; */
     background-image: url('./images/Path.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    /* background-size: cover; */
+    background-position: right;
 }
 
 p {
@@ -109,13 +110,13 @@ button {
    padding-top: 12px;
    padding-left: 165px;
    padding-right: 165px;
-   justify-content: space-evenly;
+   justify-content: space-between;
 }
 
 .section-zero .lower-section {
     /* border: 1px solid black; */
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin: 0px;
     padding: 0px;
  }
