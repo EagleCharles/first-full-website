@@ -122,7 +122,7 @@ button {
 
  .section-zero .lower-section .photo {
     margin-top: 205px;
-    mix-blend-mode: multiply;
+    /* mix-blend-mode: multiply; */
  }
 
  .section-zero .lower-section .lower-wrapper {
